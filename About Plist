@@ -1,0 +1,21 @@
+An Info.plist file is a property list file that is used to store information about an iOS app. It contains a variety of keys and values, such as the app's name, version, and icon. The Info.plist file is used by the iOS operating system to determine how to launch and run the app.
+
+The Info.plist file is located in the project navigator of Xcode. It can be opened by double-clicking on it. The Info.plist file is a simple text file, but it can be edited using the Xcode property list editor.
+
+Here are some of the common keys that are found in an Info.plist file:
+
+CFBundleIdentifier: The unique identifier for the app.
+CFBundleVersion: The version number of the app.
+CFBundleName: The name of the app.
+CFBundleIconFile: The file name of the app's icon.
+UILaunchStoryboardName: The name of the app's launch storyboard.
+The Info.plist file is an important part of any iOS app. It contains information that is used by the iOS operating system to launch and run the app.
+
+Here are some of the things you can do with an Info.plist file:
+
+Set the app's name, version, and icon.
+Specify the app's launch storyboard.
+Enable or disable certain app features.
+Specify the app's privacy policy.
+Provide information about the app's developer.
+The Info.plist file is a powerful tool that can be used to control how your app is launched and run. By carefully configuring the Info.plist file, you can ensure that your app is properly configured for the iOS operating system.
